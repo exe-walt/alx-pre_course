@@ -1,1 +1,1 @@
-this is my second directory
+Updating README in git
